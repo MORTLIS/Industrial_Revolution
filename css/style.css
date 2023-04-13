@@ -1,0 +1,11 @@
+body{
+    background: #e1e1cf;
+}
+
+body p{
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: decimal;
+}
